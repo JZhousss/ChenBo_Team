@@ -1,23 +1,23 @@
 ---
-title: Contact
-date: 2022-10-24
+title: contact
+date: 2025-01-08
 
 type: landing
 
 sections:
-  - block: contact
+  - block: 联系我们
     content:
-      title: Contact
+      title: 联系我们
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
+        有兴趣可以联系我们！
+      email: bchen@aliyun.com
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        street: 留和路288号
+        city: 杭州
         region: CA
         postcode: '94305'
-        country: United States
+        country: 中国
         country_code: US
       coordinates:
         latitude: '37.4275'
