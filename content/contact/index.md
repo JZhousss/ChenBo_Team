@@ -10,15 +10,13 @@ sections:
       title: 联系我们
       text: |-
         有兴趣可以联系我们！
-      email: bchen@aliyun.com
-      phone: 888 888 88 88
-      address:
-        street: 留和路288号
-        city: 杭州
-        region: CA
-        postcode: '94305'
-        country: 中国
-        country_code: US
+      邮箱: bchen@aliyun.com
+      联系方式: 888 888 88 88
+      地址:
+        地址: 留和路288号
+        城市: 杭州
+        省份: 浙江省
+        国家: 中国
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'
